@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Project Status Dashboard Generator",
+  "description": "An intelligent dashboard that analyzes project documents (.doc, .xml) to generate a comprehensive, real-time status report with visualizations and AI-powered insights.",
+  "requestFramePermissions": []
+}
